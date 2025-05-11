@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AndrewMaru
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, React
+- You can call me Acar to know more
+- 👀 I’m interested in coding, Machine Learning and games
+- 🌱 I’m currently learning Python, React and backend
 
 <!---
 AndrewMaru/AndrewMaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
